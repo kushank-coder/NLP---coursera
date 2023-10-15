@@ -5,3 +5,5 @@ The repository contains the exercises and learnings of the "Natural Language Pro
 The 1st step in any NLP exercise is to extract features from your text which you could feed into your model
 
 #hash functions and multi planes : this code identifies the use of locality sensitive hashing by the use of hash values which acts as a key and thus help us do our search in a smaller region
+
+#machine translation with locality sensitive hashing code is the final exercise and is code intensive (good for practising locality sensitive hashing)
